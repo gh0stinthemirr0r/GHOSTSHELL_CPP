@@ -1,0 +1,65 @@
+Project Directory Structure for: C:\devops\ghostshell\ghostshell
+Captured on: 2024-10-23 21:42:55
+----------------------------------------
+[📁] Folder: Command (Command) - Last Modified: 2024-10-23 20:40:56
+[📁] Folder: CommandHandler (CommandHandler) - Last Modified: 2024-10-23 19:31:55
+  [📄] File: command_handler.cpp in (CommandHandler\command_handler.cpp) - Last Modified: 2024-10-23 19:43:43
+  [📄] File: command_handler.h in (CommandHandler\command_handler.h) - Last Modified: 2024-10-23 19:28:18
+[📁] Folder: Constants (Constants) - Last Modified: 2024-10-23 20:17:20
+[📁] Folder: CryptoManager (CryptoManager) - Last Modified: 2024-10-23 19:17:43
+  [📄] File: crypto_manager.cpp in (CryptoManager\crypto_manager.cpp) - Last Modified: 2024-10-13 21:50:52
+  [📄] File: crypto_manager.h in (CryptoManager\crypto_manager.h) - Last Modified: 2024-10-13 21:50:52
+[📄] File: DirectoryStructure.txt in (DirectoryStructure.txt) - Last Modified: 2024-10-23 21:42:55
+[📁] Folder: Doc (Doc) - Last Modified: 2024-10-23 20:17:31
+[📁] Folder: generated (generated) - Last Modified: 2024-10-23 20:17:46
+[📁] Folder: GhostAPI (GhostAPI) - Last Modified: 2024-10-23 20:16:06
+[📁] Folder: GhostAuth_User_Manager (GhostAuth_User_Manager) - Last Modified: 2024-10-23 20:50:22
+[📁] Folder: GhostConfig (GhostConfig) - Last Modified: 2024-10-23 20:17:12
+[📁] Folder: GhostInscribe (GhostInscribe) - Last Modified: 2024-10-23 20:17:06
+[📁] Folder: Ghostlog (Ghostlog) - Last Modified: 2024-10-23 20:18:01
+[📁] Folder: GhostMetrics (GhostMetrics) - Last Modified: 2024-10-23 20:38:08
+[📁] Folder: GhostPass (GhostPass) - Last Modified: 2024-10-23 20:19:10
+[📄] File: ghostshell.cpp in (ghostshell.cpp) - Last Modified: 2024-10-23 19:27:03
+[📄] File: ghostshell.vcxproj in (ghostshell.vcxproj) - Last Modified: 2024-10-23 19:28:31
+[📄] File: ghostshell.vcxproj.filters in (ghostshell.vcxproj.filters) - Last Modified: 2024-10-23 19:28:31
+[📄] File: ghostshell.vcxproj.user in (ghostshell.vcxproj.user) - Last Modified: 2024-10-23 20:42:15
+[📁] Folder: GhostTLS (GhostTLS) - Last Modified: 2024-10-23 20:48:54
+[📁] Folder: GhostVault (GhostVault) - Last Modified: 2024-10-23 20:18:19
+[📁] Folder: GhostVault_Manager (GhostVault_Manager) - Last Modified: 2024-10-23 20:47:46
+[📁] Folder: GhostVPN (GhostVPN) - Last Modified: 2024-10-23 20:43:45
+[📁] Folder: Grpc (Grpc) - Last Modified: 2024-10-23 20:38:00
+[📁] Folder: Middleware (Middleware) - Last Modified: 2024-10-23 20:38:17
+[📁] Folder: NetworkManager (NetworkManager) - Last Modified: 2024-10-23 19:16:55
+  [📄] File: network_manager.cpp in (NetworkManager\network_manager.cpp) - Last Modified: 2024-10-13 21:50:52
+  [📄] File: network_manager.h in (NetworkManager\network_manager.h) - Last Modified: 2024-10-13 21:50:52
+[📁] Folder: profile_management (profile_management) - Last Modified: 2024-10-23 20:39:14
+[📄] File: Project_Structure.py in (Project_Structure.py) - Last Modified: 2024-10-09 12:07:32
+[📁] Folder: Proto (Proto) - Last Modified: 2024-10-23 20:39:35
+  [📄] File: Central Repository- com-google-protobuf-protoc-3.21.5.url in (Proto\Central Repository- com-google-protobuf-protoc-3.21.5.url) - Last Modified: 2024-10-21 08:15:21
+  [📄] File: libprotoc.exe in (Proto\libprotoc.exe) - Last Modified: 2024-10-21 08:15:53
+  [📄] File: protoc.exe in (Proto\protoc.exe) - Last Modified: 2024-10-21 08:14:52
+  [📄] File: usermanagement.proto in (Proto\usermanagement.proto) - Last Modified: 2024-10-23 16:47:52
+[📁] Folder: Server (Server) - Last Modified: 2024-10-23 20:39:50
+[📁] Folder: Testing (Testing) - Last Modified: 2024-10-23 20:39:58
+[📁] Folder: Tools (Tools) - Last Modified: 2024-10-23 20:40:09
+[📁] Folder: x64 (x64) - Last Modified: 2024-10-23 19:02:31
+  [📁] Folder: Debug (x64\Debug) - Last Modified: 2024-10-23 19:28:33
+    [📄] File: command_handler.obj in (x64\Debug\command_handler.obj) - Last Modified: 2024-10-23 19:28:33
+    [📄] File: crypto_manager.obj in (x64\Debug\crypto_manager.obj) - Last Modified: 2024-10-23 19:28:33
+    [📄] File: ghostshell.exe.recipe in (x64\Debug\ghostshell.exe.recipe) - Last Modified: 2024-10-23 19:04:55
+    [📄] File: ghostshell.ilk in (x64\Debug\ghostshell.ilk) - Last Modified: 2024-10-23 19:04:54
+    [📄] File: ghostshell.obj in (x64\Debug\ghostshell.obj) - Last Modified: 2024-10-23 19:04:54
+    [📁] Folder: ghostshell.tlog (x64\Debug\ghostshell.tlog) - Last Modified: 2024-10-23 19:28:32
+      [📄] File: CL.command.1.tlog in (x64\Debug\ghostshell.tlog\CL.command.1.tlog) - Last Modified: 2024-10-23 19:34:37
+      [📄] File: Cl.items.tlog in (x64\Debug\ghostshell.tlog\Cl.items.tlog) - Last Modified: 2024-10-23 19:04:55
+      [📄] File: CL.read.1.tlog in (x64\Debug\ghostshell.tlog\CL.read.1.tlog) - Last Modified: 2024-10-23 19:34:37
+      [📄] File: CL.write.1.tlog in (x64\Debug\ghostshell.tlog\CL.write.1.tlog) - Last Modified: 2024-10-23 19:34:37
+      [📄] File: ghostshell.lastbuildstate in (x64\Debug\ghostshell.tlog\ghostshell.lastbuildstate) - Last Modified: 2024-10-23 19:34:37
+      [📄] File: link.command.1.tlog in (x64\Debug\ghostshell.tlog\link.command.1.tlog) - Last Modified: 2024-10-23 19:04:55
+      [📄] File: link.read.1.tlog in (x64\Debug\ghostshell.tlog\link.read.1.tlog) - Last Modified: 2024-10-23 19:04:55
+      [📄] File: link.secondary.1.tlog in (x64\Debug\ghostshell.tlog\link.secondary.1.tlog) - Last Modified: 2024-10-23 19:04:55
+      [📄] File: link.write.1.tlog in (x64\Debug\ghostshell.tlog\link.write.1.tlog) - Last Modified: 2024-10-23 19:04:55
+      [📄] File: unsuccessfulbuild in (x64\Debug\ghostshell.tlog\unsuccessfulbuild) - Last Modified: 2024-10-23 19:34:37
+    [📄] File: network_manager.obj in (x64\Debug\network_manager.obj) - Last Modified: 2024-10-23 19:30:46
+    [📄] File: vc143.idb in (x64\Debug\vc143.idb) - Last Modified: 2024-10-23 19:34:37
+    [📄] File: vc143.pdb in (x64\Debug\vc143.pdb) - Last Modified: 2024-10-23 19:34:37

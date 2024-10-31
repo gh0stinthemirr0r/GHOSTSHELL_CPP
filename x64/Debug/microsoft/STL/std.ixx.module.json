@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\microsoft/STL\\std.ixx.obj",
+            "outputs": [
+                "x64\\Debug\\std.sbr",
+                "C:\\devops\\ghostshell\\ghostshell\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\microsoft/STL\\",
+                "C:\\devops\\ghostshell\\ghostshell\\x64\\Debug\\microsoft\\STL\\std.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\preview\\vc\\tools\\msvc\\14.42.34431\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

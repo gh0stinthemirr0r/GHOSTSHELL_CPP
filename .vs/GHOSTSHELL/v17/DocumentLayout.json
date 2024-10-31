@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\browser_core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\crypto_utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\crypto_utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\browser_ui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\browser_ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\browser_core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\metrics_overlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\metrics_overlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\extensions_manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\extensions_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\network_stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\network_stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\sandbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\ghostbrowse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D5B09FA-9E1F-4917-948F-FF1D26A7A1ED}|GHOSTSHELL.vcxproj|solutionrelative:GhostBrowse\\ghostbrowse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostAuth\\ghostauth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GhostAuth\\ghostauth.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "crypto_utils.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\crypto_utils.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.h",
+              "RelativeToolTip": "GhostBrowse\\crypto_utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:34:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crypto_utils.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\crypto_utils.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\crypto_utils.cpp",
+              "RelativeToolTip": "GhostBrowse\\crypto_utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:34:19.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "metrics_overlay.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\metrics_overlay.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.h",
+              "RelativeToolTip": "GhostBrowse\\metrics_overlay.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:31:29.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "metrics_overlay.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\metrics_overlay.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\metrics_overlay.cpp",
+              "RelativeToolTip": "GhostBrowse\\metrics_overlay.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:31:22.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "extensions_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\extensions_manager.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.cpp",
+              "RelativeToolTip": "GhostBrowse\\extensions_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:28:51.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "extensions_manager.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\extensions_manager.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\extensions_manager.h",
+              "RelativeToolTip": "GhostBrowse\\extensions_manager.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:28:46.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "network_stack.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\network_stack.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.h",
+              "RelativeToolTip": "GhostBrowse\\network_stack.h",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:27:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "network_stack.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\network_stack.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\network_stack.cpp",
+              "RelativeToolTip": "GhostBrowse\\network_stack.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:27:27.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "browser_ui.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\browser_ui.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.cpp",
+              "RelativeToolTip": "GhostBrowse\\browser_ui.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T04:14:44.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "browser_core.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\browser_core.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.cpp",
+              "RelativeToolTip": "GhostBrowse\\browser_core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T04:13:35.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "browser_ui.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\browser_ui.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_ui.h",
+              "RelativeToolTip": "GhostBrowse\\browser_ui.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:40:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "browser_core.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\browser_core.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\browser_core.h",
+              "RelativeToolTip": "GhostBrowse\\browser_core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T04:11:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sandbox.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\sandbox.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.h",
+              "RelativeToolTip": "GhostBrowse\\sandbox.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T18:24:37.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sandbox.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\sandbox.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\sandbox.cpp",
+              "RelativeToolTip": "GhostBrowse\\sandbox.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T18:24:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ghostauth.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostAuth\\ghostauth.h",
+              "RelativeDocumentMoniker": "GhostAuth\\ghostauth.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostAuth\\ghostauth.h",
+              "RelativeToolTip": "GhostAuth\\ghostauth.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T01:10:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ghostbrowse.h",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.h",
+              "RelativeDocumentMoniker": "GhostBrowse\\ghostbrowse.h",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.h",
+              "RelativeToolTip": "GhostBrowse\\ghostbrowse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T04:08:36.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ghostbrowse.cpp",
+              "DocumentMoniker": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.cpp",
+              "RelativeDocumentMoniker": "GhostBrowse\\ghostbrowse.cpp",
+              "ToolTip": "C:\\Users\\ghost\\OneDrive\\Documents\\GHOSTSHELL\\GhostBrowse\\ghostbrowse.cpp",
+              "RelativeToolTip": "GhostBrowse\\ghostbrowse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T04:07:14.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

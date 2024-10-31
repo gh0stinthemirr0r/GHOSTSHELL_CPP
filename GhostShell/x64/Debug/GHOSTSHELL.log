@@ -1,0 +1,55 @@
+﻿  Debug,
+  oqs,
+  liboqs,
+  liboqs-cpp,
+  build,
+  VulkanSDK,
+C:\Libraries\liboqs\build\lib\Debug,(1,1): error C1083: Cannot open source file: 'C:\Libraries\liboqs\build\lib\Debug,': No such file or directory
+  (compiling source file '../../../../../Libraries/liboqs/build/lib/Debug,')
+  
+C:\Libraries\liboqs\build\include\oqs,(1,1): error C1083: Cannot open source file: 'C:\Libraries\liboqs\build\include\oqs,': No such file or directory
+  (compiling source file '../../../../../Libraries/liboqs/build/include/oqs,')
+  
+C:\Libraries\liboqs,(1,1): error C1083: Cannot open source file: 'C:\Libraries\liboqs,': No such file or directory
+  (compiling source file '../../../../../Libraries/liboqs,')
+  
+C:\Libraries\liboqs-cpp,(1,1): error C1083: Cannot open source file: 'C:\Libraries\liboqs-cpp,': No such file or directory
+  (compiling source file '../../../../../Libraries/liboqs-cpp,')
+  
+C:\Libraries\liboqs-cpp\build,(1,1): error C1083: Cannot open source file: 'C:\Libraries\liboqs-cpp\build,': No such file or directory
+  (compiling source file '../../../../../Libraries/liboqs-cpp/build,')
+  
+C:\Libraries\VulkanSDK,(1,1): error C1083: Cannot open source file: 'C:\Libraries\VulkanSDK,': No such file or directory
+  (compiling source file '../../../../../Libraries/VulkanSDK,')
+  
+  browser_core.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/browser_core.cpp')
+  
+  browser_ui.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\GhostBrowse\browser_ui.cpp(2,10): error C1083: Cannot open include file: 'vulkan_renderer.h': No such file or directory
+  crypto_utils.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/crypto_utils.cpp')
+  
+  extensions_manager.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/extensions_manager.cpp')
+  
+  ghostbrowse.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\GhostAuth\ghostauth.h(10,10): error C1083: Cannot open include file: 'oqs.h': No such file or directory
+  (compiling source file 'GhostBrowse/ghostbrowse.cpp')
+  
+  metrics_overlay.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/metrics_overlay.cpp')
+  
+  network_stack.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/network_stack.cpp')
+  
+  sandbox.cpp
+C:\Users\ghost\OneDrive\Documents\GHOSTSHELL\liboqs\oqs\oqs.h(14,10): error C1083: Cannot open include file: 'oqs/oqsconfig.h': No such file or directory
+  (compiling source file 'GhostBrowse/sandbox.cpp')
+  
+  Generating Code...

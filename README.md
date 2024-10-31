@@ -1,10 +1,12 @@
-Post-Quantum Secure ZNTA Terminal for NetSec, DevOps, and Cybersecurity
+**Post-Quantum Secure ZNTA Terminal for NetSec, DevOps, and Cybersecurity**
 
-Overview
+
+**Overview**
 
 ZNTA (Zero Trust Network Terminal Application) is a cutting-edge terminal emulator built for network security professionals, DevOps engineers, and cybersecurity specialists. Leveraging post-quantum cryptographic algorithms, ZNTA ensures that all interactions are secure even against quantum-level attacks. It is designed to facilitate secure terminal sessions, network diagnostics, and infrastructure management while adhering to modern Zero Trust principles.
 
-Features
+
+**Features**
 
 Post-Quantum Secure Communication: Implements quantum-safe cryptographic protocols for data encryption and user authentication, ensuring a high level of security against future quantum threats.
 
@@ -14,7 +16,8 @@ DevOps Tools: Incorporates features to streamline continuous integration and inf
 
 Zero Trust Architecture: Enforces the principle of "never trust, always verify" with every access request, including strong, cryptographic user verification.
 
-Key Components
+
+**Key Components**
 
 Secure Vault: Handles post-quantum safe key storage for credentials and sensitive data.
 
@@ -24,7 +27,8 @@ Vulkan Graphics Integration: Uses Vulkan for an interactive and visually rich in
 
 Gamified Operations: Turns routine operations like ping, traceroute, and TCP analysis into gamified interactions for an engaging experience.
 
-Usage
+
+**Usage**
 
 ZNTA is designed to be cross-platform, supporting Windows, Linux (through WSL), and macOS. It is particularly beneficial for professionals involved in network troubleshooting, infrastructure management, and continuous security assessment.
 
@@ -34,7 +38,8 @@ Run: Launch the terminal using znta-terminal to start secure sessions.
 
 Configure: Modify the vault and network settings to suit your environment, ensuring post-quantum algorithms are configured properly.
 
-Technologies Used
+
+**Technologies Used**
 
 Vulkan: For high-performance rendering and interactive visualizations.
 
@@ -44,7 +49,8 @@ C++: Core functionality and performance optimization.
 
 gRPC: Real-time data synchronization and remote command execution.
 
-Future Enhancements
+
+**Future Enhancements**
 
 Advanced AI Integration: Utilize machine learning models for anomaly detection and predictive network analytics.
 
